@@ -1,0 +1,71 @@
+.timeline {
+    position: relative;
+
+    margin-bottom: 10px;
+}
+
+.timeline::before {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    width: 4.5rem;
+    height: 3px;
+
+    content: "";
+
+    background-color: #FF7827;
+}
+
+.timeline-entry {
+    padding-bottom: 10px;
+    padding-left: 6rem;
+
+    position: relative;
+}
+
+.timeline-entry::before {
+    position: absolute;
+    top: 0px;
+    /* fallback if does not support calc. calc to count for the offset of width 3 */
+    left: 2.25rem;
+    left: calc(2.25rem - 2px);
+    height: 100%;
+    width: 3px;
+
+    content: "";
+
+    background-color: #FF7827;
+}
+
+.timeline-date {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 50%;
+
+    display: inline-block;
+
+    position: absolute;
+    left: 0;
+
+    background-color: #FF7827;
+
+    color: #FFD1B5;
+
+    text-align: center;
+    line-height: 4.5rem;
+
+    font-weight: bold;
+
+    font-size: 1rem;
+}
+
+.timeline-header {
+    display: inline-block;
+
+    height: 4.5rem;
+    text-align: center;
+    line-height: 4.5rem;
+
+    margin: 0;
+}
