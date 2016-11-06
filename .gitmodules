@@ -1,9 +1,9 @@
 [submodule "PeetisKingdom"]
 	path = PeetisKingdom
-	url = git@github.com:witchcrafterz/PeetisKingdom.git
+	url = https://github.com/witchcrafterz/PeetisKingdom.git
 [submodule "rehnamusiken"]
 	path = rehnamusiken
-	url = git@github.com:rehnarama/rehnamusiken.git
+	url = https://github.com/rehnarama/rehnamusiken.git
 [submodule "michaelrehn"]
 	path = michaelrehn
-	url = git@github.com:rehnarama/michaelrehn.git
+	url = https://github.com/rehnarama/michaelrehn.git
