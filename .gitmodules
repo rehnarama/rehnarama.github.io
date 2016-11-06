@@ -1,0 +1,6 @@
+[submodule "PeetisKingdom"]
+	path = PeetisKingdom
+	url = git@github.com:witchcrafterz/PeetisKingdom.git
+[submodule "rehnamusiken"]
+	path = rehnamusiken
+	url = git@github.com:rehnarama/rehnamusiken.git
