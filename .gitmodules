@@ -4,3 +4,6 @@
 [submodule "rehnamusiken"]
 	path = rehnamusiken
 	url = git@github.com:rehnarama/rehnamusiken.git
+[submodule "michaelrehn"]
+	path = michaelrehn
+	url = git@github.com:rehnarama/michaelrehn.git
