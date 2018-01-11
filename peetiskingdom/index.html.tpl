@@ -11,11 +11,9 @@
     <!-- endinject -->
 
     <!-- vendors:js -->
-    <script src="vendors.min.js"></script>
     <!-- endinject -->
 
     <!-- dist:js -->
-    <script src="scripts.min.js"></script>
     <!-- endinject -->
 
     <!-- inject:js -->
