@@ -1,6 +1,3 @@
-[submodule "PeetisKingdom"]
-	path = PeetisKingdom
-	url = https://github.com/witchcrafterz/PeetisKingdom.git
 [submodule "rehnamusiken"]
 	path = rehnamusiken
 	url = https://github.com/rehnarama/rehnamusiken.git
