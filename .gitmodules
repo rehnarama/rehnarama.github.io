@@ -1,5 +1,5 @@
 [submodule "rehnamusiken"]
-	path = rehnamusiken
+	path = rehnamusiken_old
 	url = https://github.com/rehnarama/rehnamusiken.git
 [submodule "michaelrehn"]
 	path = michaelrehn
