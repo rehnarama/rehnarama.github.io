@@ -1,6 +1,3 @@
 [submodule "rehnamusiken"]
 	path = rehnamusiken_old
 	url = https://github.com/rehnarama/rehnamusiken.git
-[submodule "astridrehn"]
-	path = astridrehn
-	url = https://github.com/rehnarama/astridrehn
